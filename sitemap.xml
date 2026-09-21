@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.imaans.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Primary service pages (7) -->
+  <url><loc>https://www.imaans.com/laser-hair-removal/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/personalized-facials-hydrafacial/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/microneedling/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/skin-tightening/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/microdermabrasion/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/waxing-threading/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.imaans.com/acne-skin-treatments/</loc><priority>0.9</priority></url>
+
+  <!-- Local landing pages (sample of 35+ service x neighbourhood combinations) -->
+  <url><loc>https://www.imaans.com/laser-hair-removal-hyde-park/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/laser-hair-removal-east-london/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/laser-hair-removal-oakridge/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/laser-hair-removal-sunningdale/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/laser-hair-removal-arva/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/laser-hair-removal-talbot-village/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/facial-treatments-east-london/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/facial-treatments-hyde-park/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/microneedling-oakridge/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/microneedling-sunningdale/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/acne-treatment-sunningdale/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/acne-treatment-oakridge/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/skin-tightening-hyde-park/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/skin-tightening-east-london/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.imaans.com/skin-clinic-london/</loc><priority>0.85</priority></url>
+
+  <!-- ...remaining local landing pages follow the same /{service}-{neighbourhood}/ pattern
+       to reach 35+ total combinations across the 6 primary neighbourhoods -->
+</urlset>
